@@ -1,11 +1,11 @@
 # PortfolioBashScript
 This repository consists of my fun portfolio in bash. This is an internship project at 365 Retail Markets.
 
-#To run the bash script:
+# To run the bash script:
 1. Download the file in the wanted directory on your pc.
 2. In the terminal, enter enter bash bashPortfolioScript.sh or ./bashPortfolioScript.sh
 
-#How it should function:
+# How it should function:
 
 1. Introduction with 5 options are seen
 2. Get user input on what option to choose.
